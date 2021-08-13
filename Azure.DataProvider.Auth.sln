@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.DataProvider.Auth", "Azure.DataProvider.Auth.csproj", "{770BE296-B7A0-4ECE-8A70-3EB6513F6D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770BE296-B7A0-4ECE-8A70-3EB6513F6D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770BE296-B7A0-4ECE-8A70-3EB6513F6D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770BE296-B7A0-4ECE-8A70-3EB6513F6D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770BE296-B7A0-4ECE-8A70-3EB6513F6D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CDE9F6D-5EB0-4499-8FC7-BDD8A960639E}
+	EndGlobalSection
+EndGlobal
